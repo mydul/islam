@@ -1,7 +1,7 @@
 
-# Python-Programming
+# [mydul.github.io](mydul.github.io)
 
-A brief description of this repository containing all test project files a static personal resume page.
+A brief description of this repository containing all test project files for a static personal resume website.
 
 
 ## Project Goals
@@ -27,13 +27,13 @@ Source Code:
 
 Output:
 
-My First Heading
+My First Heading<br>
 My first paragraph.
 
 
 ## License
 
-Distributed for all student under the [personal](https://github.com/mydul) licence.
+Under the [personal](https://github.com/mydul) licence and the [source code](https://bootstrapmade.com/license/) licence.
 
 
 ## Acknowledgements
