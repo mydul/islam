@@ -57,7 +57,7 @@ A little more about me...
 const mydul = {
   pronouns: "He" | "Him",
   code: [C, Python, HTML, CSS, LATEX, MATLAB, VHDL, Arduino],
-  tools: [Microsoft Office, Proteus, PSpice, LTSpice, OriginPro, MicroWind, COMSOL Multiphysics, Cadence],
+  tools: [Microsoft Office, Proteus, PSpice, LTSpice, OriginPro, MicroWind, COMSOL, Cadence],
   accustomed: ["Linux", "Windows", "Raspbian"],
   experience: {
                         project_manager: "Magnetic Sense GmbH"
@@ -65,7 +65,7 @@ const mydul = {
                         delegate: "Model United Nations",
                         member: "IEEE"
                       },
- availability: "I am open for new opportunity in the field of Nanotechnology, Materials Science, and Quantum Electronics"
+ availability: "I am open for new opportunity in the field of Nanotechnology, and Materials Science"
 }
 ```
 ---
