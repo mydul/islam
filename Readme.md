@@ -1,5 +1,5 @@
 
-# [mydul.github.io](mydul.github.io)
+# [mydul.github.io](https://mydul.github.io/)
 
 A brief description of this repository containing all test project files for a static personal resume website.
 
